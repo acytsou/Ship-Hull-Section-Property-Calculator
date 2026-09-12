@@ -34,4 +34,4 @@ Example input files are included in this repository (pre-set data in app, extra 
 
 Andy Tsou
 
-University of Tasmania
+University of Tasmania (Australian Maritime College, AMC)
