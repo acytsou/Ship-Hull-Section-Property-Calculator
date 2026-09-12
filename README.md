@@ -23,8 +23,8 @@ The computational tool was validated against independent CAD-based ship section 
 
 Developed and tested using:
 
-- MATLAB R2025a
-- MATLAB R2023b
+- MATLAB R2025a (testing)
+- MATLAB R2023b (developed)
 
 ## Example Files
 
