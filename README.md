@@ -2,6 +2,10 @@
 
 MATLAB-based computational tool for hull girder sectional property evaluation, corrosion assessment and damage analysis.
 
+## User Interface
+
+App_Interface.jpg
+
 ## Features
 
 - Shell plating modelling
