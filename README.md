@@ -4,7 +4,7 @@ MATLAB-based computational tool for hull girder sectional property evaluation, c
 
 ## User Interface
 
-App_Interface.jpg
+![App_Interface](App_Interface.jpg"App format")
 
 ## Features
 
