@@ -26,9 +26,9 @@ Developed and tested using:
 - MATLAB R2025a (testing)
 - MATLAB R2023b (developed)
 
-## Example Files
+## Example structure data Files
 
-Example input files are included in this repository.
+Example input files are included in this repository (pre-set data in app, extra Example_b.mat and Example_c.mat Matlab data file)
 
 ## Author
 
