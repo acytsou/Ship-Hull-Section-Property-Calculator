@@ -3,8 +3,7 @@
 MATLAB-based computational tool for hull girder sectional property evaluation, corrosion assessment and damage analysis.
 
 ## User Interface
-
-[![App_Interface](App_Interface.jpg"App format")](https://github.com/acytsou/Ship-Hull-Section-Property-Calculator/blob/2fe52bbc08330e98423a29ab9387123662550611/App_Interface.jpg)
+![image_alt](https://github.com/acytsou/Ship-Hull-Section-Property-Calculator/blob/2fe52bbc08330e98423a29ab9387123662550611/App_Interface.jpg)
 
 ## Features
 
