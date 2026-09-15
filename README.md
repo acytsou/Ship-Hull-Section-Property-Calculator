@@ -101,7 +101,7 @@ Download the latest release:
 
 No MATLAB license is required.
 
-MATLAB Runtime may be required (need to confirm).
+MATLAB Runtime is required (Should automatlly have the exectuable download MATLAB Runtime if needed on the end user's computer, need to confirm).
 
 
 ## Developed MATLAB Version
