@@ -108,7 +108,7 @@ MATLAB Runtime may be required (need to confirm).
 
 Developed and tested using:
 
-- MATLAB R2025a (testing)
+- MATLAB R2025b (testing)
 - MATLAB R2023b (developed)
 
 
