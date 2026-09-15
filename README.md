@@ -114,11 +114,10 @@ Developed and tested using:
 
 ## Citation
 
-Toolbox citation:
+Toolbox citation (APA 7):
 
 ```text
-Tsou, A. (2026). Ship Hull Section Property Calculator (Version 1.0) [Computer software]. GitHub. Available at:
-https://github.com/acytsou/Ship-Hull-Section-Property-Calculator (Accessed: dd month year).
+Tsou, A. (2026). Ship Hull Section Property Calculator (Version 1.0) [Computer software]. GitHub. https://github.com/acytsou/Ship-Hull-Section-Property-Calculator
 ```
 
 
